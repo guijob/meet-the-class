@@ -54,7 +54,11 @@ people = [
   },
   {
     full_name: 'Guilherme Job Rocha Silveira',
-    first_name: 'Guilherme'
+    first_name: 'Guilherme',
+    course: 'Curso Cooperativo',
+    birthday: '10/04/1991',
+    about: 'Eu sou engraçadinho.',
+    picture: '91a8a0ffb41d445b336c7a7738e15e97'
   },
   {
     full_name: 'Ian Elmôr Lang',
